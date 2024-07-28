@@ -7,12 +7,6 @@ __pycache__/
 # Ignore IDE specific files
 .idea/
 
-# Ignore model and encoder files if you don't want them in the repo
-*.pkl
-
-# Ignore data files if you don't want them in the repo
-*.csv
-
 # Ignore log files
 *.log
 
